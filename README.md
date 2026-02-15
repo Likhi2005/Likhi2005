@@ -129,8 +129,8 @@ Render • API Testing • Version Control
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Likhi2005&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likhi2005&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Likhi2005&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Likhi2005&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
