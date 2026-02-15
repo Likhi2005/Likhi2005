@@ -138,7 +138,7 @@ Render • API Testing • Version Control
 # 🔥 Streak Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Likhi2005&theme=tokyonight"/>
 </p>
 
 ---
