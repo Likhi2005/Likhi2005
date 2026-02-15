@@ -1,67 +1,70 @@
-```markdown
-# Hi 👋, I'm Likhith S Gowda
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi 👋, I'm Likhith S Gowda</h1>
+<h3 align="center">💻 Full Stack Developer | 🤖 ML & MLOps Enthusiast | 🚀 DevOps Learner</h3>
 
-💻 Computer Science Undergraduate | Full Stack Developer | ML & MLOps Enthusiast  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;MERN+Stack+Developer;Machine+Learning+Engineer;MLOps+%7C+DevOps+Enthusiast&center=true&width=500&height=45">
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
+<a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
+<a href="mailto:likhisgowda2005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 B.Tech CSE — REVA University (2023–2027)  
+- 💡 MERN Stack + Machine Learning Developer  
+- 🐳 Hands-on with Docker & CI/CD  
+- 🤖 Building End-to-End ML Pipelines  
+- 🎯 Seeking Software / ML Internship  
 
 📍 Bengaluru, Karnataka, India  
-📫 likhisgowda2005@gmail.com  
-📱 +91 6363531559  
 
 ---
 
-## 🚀 Profile
+# 🛠️ Tech Stack
 
-Computer Science undergraduate with hands-on experience in MERN stack development and Machine Learning projects, seeking a Software Engineering or Data-Driven Internship to build scalable applications and deploy real-world ML solutions.
-
----
-
-## 🎓 Education
-
-**B.Tech in Computer Science and Engineering**  
-REVA University, Bangalore  
-📅 2023 – 2027  
+## 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,java,c" />
+</p>
 
 ---
 
-## 🧠 Tech Skills
-
-### 💻 Languages
-![Skills](https://skillicons.dev/icons?i=python,javascript,java,c)
-
-- C (Basics)  
-- Java (Basics)  
-- JavaScript  
-- Python  
+## 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
 
 ---
 
-### 🎨 Frontend
-![Skills](https://skillicons.dev/icons?i=html,css,react)
-
-- HTML5  
-- CSS3  
-- React  
+## ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
 
 ---
 
-### ⚙️ Backend
-![Skills](https://skillicons.dev/icons?i=nodejs,express,flask)
-
-- Node.js  
-- Express.js  
-- Flask  
+## 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
 
 ---
 
-### 🗄️ Databases
-![Skills](https://skillicons.dev/icons?i=mongodb,postgresql)
+## 🤖 Machine Learning
 
-- MongoDB  
-- PostgreSQL  
-
----
-
-### 🤖 Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
 
 - scikit-learn  
 - NLP  
@@ -69,100 +72,106 @@ REVA University, Bangalore
 
 ---
 
-### 🚀 MLOps & DevOps
-![Skills](https://skillicons.dev/icons?i=docker,githubactions,linux)
+## 🚀 MLOps & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,linux" />
+</p>
 
-- Docker  
-- DVC (Data & Model Versioning)  
-- CI/CD — GitHub Actions  
-- Linux (Basic Commands)  
-
----
-
-### 🧰 Tools
-![Skills](https://skillicons.dev/icons?i=git,github,postman)
-
-- Git  
-- GitHub  
-- Postman  
-- Render  
+- DVC — Data & Model Versioning  
+- CI/CD Pipelines  
+- Containerized Deployments  
 
 ---
 
-## 📂 Projects
+## 🧰 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman" />
+</p>
 
-### 🍷 Wine Quality Prediction (MLOps)
-- Built an end-to-end ML pipeline using scikit-learn  
-- Implemented DVC for data & model versioning  
-- Automated deployment with CI/CD  
-🔗 Project Link: Add your GitHub repo link  
+Render • API Testing • Version Control  
+
+---
+
+# 📂 Featured Projects
+
+### 🍷 Wine Quality Prediction — MLOps
+- End-to-end ML pipeline  
+- DVC versioning  
+- CI/CD deployment  
 
 ---
 
 ### 🐳 DevOps Docker App
-- Full-stack app using React + Node.js + PostgreSQL  
-- Containerized with Docker  
-- Health checks & CI/CD pipelines  
-🔗 Project Link: Add your GitHub repo link  
+- React + Node.js + PostgreSQL  
+- Dockerized full-stack system  
+- Health monitoring + pipelines  
 
 ---
 
 ### 🌾 Crop Prediction System
-- Random Forest-based crop recommendation system  
-- Uses soil & climate dataset inputs  
-🔗 Project Link: Add your GitHub repo link  
+- Random Forest model  
+- Soil & climate dataset analysis  
 
 ---
 
-### 💰 Expense Tracker (MERN)
-- Multi-account expense tracking system  
+### 💰 Expense Tracker — MERN
+- Multi-account tracking  
 - Excel export reports  
-- Dashboard analytics  
-🔗 Project Link: Add your GitHub repo link  
 
 ---
 
-### 🛒 E-Commerce Website
-- Full-stack e-commerce platform  
-- Built with React, Node.js & MongoDB  
-- Product management + cart + orders  
-🔗 Project Link: Add your GitHub repo link  
+### 🛒 E-Commerce Platform
+- Full-stack shopping system  
+- Auth • Cart • Orders • Admin  
 
 ---
 
-## 📜 Certifications
+# 📊 GitHub Analytics
 
-**Full Stack Web Development — Udemy**  
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔥 Streak Stats
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
+</p>
+
+---
+
+# 📜 Certification
+
+🎓 Full Stack Web Development — Udemy  
 📅 Aug 2024 – Jan 2025  
 
 ---
 
-## 📊 GitHub Stats
+# 👀 Profile Views
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge"/>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+# ⭐ Quote
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight)
-
----
-
-## 🔗 Connect With Me
-
-- LinkedIn: Add your LinkedIn link  
-- GitHub: https://github.com/YOUR_USERNAME  
+> “Code. Deploy. Scale. Repeat.” 🚀
 
 ---
 
-⭐️ From **Likhith S Gowda**
-```
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+</p>
