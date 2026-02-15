@@ -11,8 +11,8 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
+<a href="https://linkedin.com/in/likhith-s-gowda-432114294"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
+<a href="https://github.com/Likhi2005"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
 <a href="mailto:likhisgowda2005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
 </p>
 
@@ -146,7 +146,7 @@ Render • API Testing • Version Control
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Likhi2005&theme=tokyonight&row=1&column=7"/>
 </p>
 
 ---
@@ -161,7 +161,7 @@ Render • API Testing • Version Control
 # 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Likhi2005&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
 
 ---
