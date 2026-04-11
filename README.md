@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Likhith S Gowda</h1>
-<h3 align="center">💻 Full Stack Developer | 🤖 ML & MLOps Enthusiast | 🚀 DevOps Learner</h3>
+<h3 align="center">💻 Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;MERN+Stack+Developer;Machine+Learning+Engineer;MLOps+%7C+DevOps+Enthusiast&center=true&width=500&height=45">
