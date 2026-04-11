@@ -3,7 +3,7 @@
 <h3 align="center">💻 Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;MERN+Stack+Developer;Machine+Learning+Engineer;MLOps+%7C+DevOps+Enthusiast&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;MERN+Stack+Developer&center=true&width=500&height=45">
 </p>
 
 ---
